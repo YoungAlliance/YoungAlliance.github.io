@@ -11,17 +11,16 @@ header:
 widget-1:
     title: "News & Views"
     url: 'http://http://youngalliance.github.io/blog/'
-    text: 'Learn what the Young Alliance is working on, our recent international conference in Copenhagen, and other recent news from the Young Alliance Against Cancer.'
+    text: 'Hear more about the recent conference we held in Copenhagen, covering a wide range of early-researcher topics, from career advice to open access publishing on our blog.'
     image: conference_table.jpg
 widget-2:
-    title: "Why use this theme?"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
-widget-3:
-    title: "Download Theme"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    title: "Change"
+    url: 'http://http://youngalliance.github.io/blog/'
+    text: '<em>Share our passion for changing the way cancer research is done?</em> Connect with us and hear our vision for the future of cancer research.  Or share your ideas on how a grassroots organization should be shaking up the research community'
+
+    title: "Interviews"
+    url: 'http://http://youngalliance.github.io/blog/'
+    text: 'Check out some of our interviews from established scientists on the journey they took on their way to scientific success, what advice they have for young researchers, and what trends they see shaping the future of science'
     image: github-303x182.jpg
 ---
 
