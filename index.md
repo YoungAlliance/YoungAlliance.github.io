@@ -12,7 +12,7 @@ widget-1:
     title: "News & Views"
     url: 'http://http://youngalliance.github.io/blog/'
     text: 'Learn what the Young Alliance is working on, our recent international conference in Copenhagen, and other recent news from the Young Alliance Against Cancer.'
-    image: conference_table.jpg
+    image: Copenhagen1.jpg
 widget-2:
     title: "Why use this theme?"
     url: 'http://phlow.github.io/feeling-responsive/info/'
