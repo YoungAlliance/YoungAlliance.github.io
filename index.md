@@ -7,12 +7,12 @@
 layout: frontpage
 title: "The Young Alliance Against Cancer (YAAC) -- Educating the next generation of cancer researchers"
 header:
-   image_fullwidth: "yaac_voting.jpg"
+   image_fullwidth: "Copenhagen1.jpg"
 widget-1:
     title: "News & Views"
     url: 'http://http://youngalliance.github.io/blog/'
     text: 'Learn what the Young Alliance is working on, our recent international conference in Copenhagen, and other recent news from the Young Alliance Against Cancer.'
-    image: Copenhagen1.jpg
+    image: conference_table.jpg
 widget-2:
     title: "Why use this theme?"
     url: 'http://phlow.github.io/feeling-responsive/info/'
