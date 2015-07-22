@@ -17,8 +17,8 @@ widget-1:
 widget-2:
     title: "Change"
     url: 'http://http://youngalliance.github.io/blog/'
-    text: '<em>Share our passion for changing the way cancer research is done?</em> Connect with us and hear our vision for the future of cancer research.  Or share your ideas on how a grassroots organization should be shaking up the research community'
-    image: github-303x182.jpg
+    text: '<em>Share our passion for changes in the way cancer research is done?</em> Connect with us and hear our vision for the future of cancer research.  Or share your ideas on how a grassroots organization should be shaking up the research community'
+    image: copenhagen_2015_title.jpg
 
 widget-3:
     title: "Interviews"
