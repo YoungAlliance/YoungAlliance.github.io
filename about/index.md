@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: frontpage
 title:  "About the Young Alliance"
 subheadline:  ""
 meta_description: ""
