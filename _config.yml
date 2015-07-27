@@ -230,7 +230,7 @@ sass:
 # PROSE stuff
 prose:
   rooturl: '_posts'
-  siteurl: 'https://youngalliance.github.io/'
+  siteurl: 'http://youngalliance.github.io/'
   relativeLinks: 'https://youngalliance.github.io/links.jsonp'
   media: 'images'
   ignore:
@@ -243,15 +243,27 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"
+          value: "page"
+      - name: "sidebar"
+        field:
+          element: "hidden"
+          value: "right"
+      - name: "breadcrumb"
+        field:
+          element: "hidden"
+          value: "true"
       - name: "tags"
         field:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "YAAC"
+              value: "YAAC"
+            - name: "Science"
+              value: "Science"
+            - name: "Community"
+              value: "Community"
+            - name: "Announcement"
+              value: "Announcement"
     
