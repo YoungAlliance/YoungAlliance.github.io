@@ -230,9 +230,9 @@ sass:
 # PROSE stuff
 prose:
   rooturl: '_posts'
-  siteurl: 'http://127.0.0.1:4000/'
-  relativeLinks: 'http://127.0.0.1:4000/starter/links.jsonp'
-  media: 'media'
+  siteurl: 'https://youngalliance.github.io/'
+  relativeLinks: 'https://youngalliance.github.io/links.jsonp'
+  media: 'images'
   ignore:
     - index.md
     - _config.yml
@@ -243,7 +243,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "post"
       - name: "tags"
         field:
           element: "multiselect"
@@ -254,13 +254,4 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
+    
