@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: default
 title:  "About the Young Alliance"
 subheadline:  ""
 meta_description: ""
