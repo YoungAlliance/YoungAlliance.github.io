@@ -22,6 +22,7 @@ description: "Young Alliance Against Cancer -- Educating the next generation of 
 # This URL is the main adressess. Don't include a slash at the end.
 #
 url: "https://YoungAlliance.github.io"
+# url: "localhost:4000/"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -35,10 +36,12 @@ improve_content: https://github.com/YoungAlliance/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
 urlimg: "https://YoungAlliance.github.io/images/"
+#url: "http://localhost:4000/images/"
 
 
 # Logo size is 600x80 pixels
 logo: "YAAC_logo.png"
+logo_normal: "YAAC_logo_normal.png"
 
 
 # Paginates all X entries
@@ -227,8 +230,8 @@ sass:
 # PROSE stuff
 prose:
   rooturl: '_posts'
-  siteurl: 'http://YoungAlliance.github.io'
-  relativeLinks: 'http://YoungAlliance.github.io/starter/links.jsonp'
+  siteurl: 'http://127.0.0.1:4000/'
+  relativeLinks: 'http://127.0.0.1:4000/starter/links.jsonp'
   media: 'media'
   ignore:
     - index.md
