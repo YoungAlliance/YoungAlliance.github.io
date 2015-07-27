@@ -2,8 +2,9 @@
 breadcrumb: "true"
 sidebar: right
 layout: page
-published: false
+published: true
 ---
+
 
 ## Super test post
 
