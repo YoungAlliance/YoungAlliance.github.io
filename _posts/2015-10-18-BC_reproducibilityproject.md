@@ -1,11 +1,16 @@
 ---
-breadcrumb: "true"
-tags: 
-  - "null"
-published: true
+layout: page
+sidebar: right
+subheadline: Templates
+title:  "You could be next – Reproducibility Initiative"
+teaser: "Reproducibility Initiative"
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
-
-
 
 #You could be next – Reproducibility Initiative shows most landmark experiments cannot be reproduced
 ###By Benito Campos
