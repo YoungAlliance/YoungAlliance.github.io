@@ -1,7 +1,15 @@
 ---
-breadcrumb: "true"
-tags: null
-published: false
+layout: page
+sidebar: right
+subheadline: Templates
+title:  "on open access"
+teaser: "Why I didn’t like open access"
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
 
 #Why I didn’t like open access 
