@@ -1,8 +1,10 @@
 ---
 breadcrumb: "true"
-tags: null
+tags: 
+  - "null"
 published: false
 ---
+
 
 #[Push this button if you hit a pay wall!!!](https://www.openaccessbutton.org)  
 ###By Sarah Weisang
@@ -14,4 +16,5 @@ But this is only half of the story! Open Access Button also wants to change the 
 - [You want to try it out?](https://www.openaccessbutton.org)
 - [Want to read the story of Open Access Button?](http://blogs.plos.org/thestudentblog/2015/05/22/support-open-access-publishing-with-the-click-of-a-button/)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
