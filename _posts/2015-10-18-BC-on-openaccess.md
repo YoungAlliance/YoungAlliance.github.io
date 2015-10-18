@@ -11,4 +11,4 @@ I hate to admit it, but not too long ago I wasn’t much of a fan of open access
 - [On OA](https://www.youtube.com/watch?v=L5rVH1KGBCY)
 - [OA conference 2015](http://opencon2015.org/blog/opencon-2015-details-announced)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
