@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Templates
+subheadline: Posts
 title:  "Reproducibility Initiative"
 teaser: "You could be next – Reproducibility Initiative shows most landmark experiments cannot be reproduced"
 breadcrumb: true
