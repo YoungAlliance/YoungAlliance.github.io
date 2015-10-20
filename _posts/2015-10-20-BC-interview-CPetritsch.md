@@ -1,12 +1,16 @@
 ---
-breadcrumb: "true"
-tags: 
-  - "null"
-published: false
+layout: page
+sidebar: right
+title:  "Interview series"
+teaser: "Interview with Claudia Petritsch, Ph.D"
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
 
-
-##Interview with Claudia Petritsch, Ph.D. 
 **Date:** 23.01.2014 
 
 **Location:** San Francisco, USA  
