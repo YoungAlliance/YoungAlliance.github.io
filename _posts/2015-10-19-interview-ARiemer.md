@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 title:  "Interview series"
-teaser: "Angelika Riemer, M.D., Ph.D."
+teaser: "Interview with Angelika Riemer, M.D., Ph.D."
 breadcrumb: true
 tags:
     - post format
