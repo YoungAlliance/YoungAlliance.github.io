@@ -1,11 +1,15 @@
 ---
-breadcrumb: "true"
-tags: 
-  - "null"
-published: true
+layout: page
+sidebar: right
+title:  "Interview series"
+teaser: "Angelika Riemer, M.D., Ph.D."
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
-
-
 
 
 ##Interview with Angelika Riemer, M.D., Ph.D.    
