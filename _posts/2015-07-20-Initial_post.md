@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Templates
+subheadline: Posts
 title:  "New website"
 teaser: "Slowly moving ahead"
 breadcrumb: true
