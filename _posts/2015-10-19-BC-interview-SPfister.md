@@ -1,7 +1,8 @@
 ---
 layout: page
 sidebar: right
-title:  "Interview series"
+subheadline: Interview series
+title:  "Stefan Pfister, M.D."
 teaser: "Interview with Stefan Pfister, M.D."
 breadcrumb: true
 tags:
