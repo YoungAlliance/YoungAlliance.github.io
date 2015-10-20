@@ -12,7 +12,6 @@ categories:
 ---
 
 
-##Interview with Angelika Riemer, M.D., Ph.D.    
 **Date:** 23.05.2013.   
 
 **Location:** Heidelberg, Germany   
