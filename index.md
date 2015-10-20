@@ -10,19 +10,19 @@ header:
    image_fullwidth: "Copenhagen1.jpg"
 widget-1:
     title: "News & Views"
-    url: 'http://http://youngalliance.github.io/blog/'
+    url: 'http://youngalliance.github.io/blog/'
     text: 'Hear more about the recent conference we held in Copenhagen, covering a wide range of early-researcher topics, from career advice to open access publishing on our blog.'
     image: conference_table.jpg
     
 widget-2:
     title: "Change"
-    url: 'http://http://youngalliance.github.io/blog/'
+    url: 'http://youngalliance.github.io/blog/'
     text: '<em>Share our passion for changes in the way cancer research is done?</em> Connect with us and hear our vision for the future of cancer research.  Or share your ideas on how a grassroots organization should be shaking up the research community'
     image: copenhagen_2015_title.jpg
 
 widget-3:
     title: "Interviews"
-    url: 'http://http://youngalliance.github.io/blog/'
+    url: 'http://youngalliance.github.io/blog/'
     text: 'Check out some of our interviews from established scientists on the journey they took on their way to scientific success, what advice they have for young researchers, and what trends they see shaping the future of science'
     image: famous_person.jpg
 ---
