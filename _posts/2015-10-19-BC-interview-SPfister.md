@@ -1,12 +1,15 @@
 ---
-breadcrumb: "true"
-tags: 
-  - "null"
-published: false
+layout: page
+sidebar: right
+title:  "Interview series"
+teaser: "Interview with Stefan Pfister, M.D."
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
-
-
-##Interview with Stefan Pfister, M.D.    
 
 **Date:** 29.07.2014 
 
