@@ -10,7 +10,7 @@ header:
    image_fullwidth: "Copenhagen1.jpg"
 widget-1:
     title: "News & Views"
-    url: 'http://youngalliance.github.io/blog/'
+    url: 'http://youngalliance.github.io/heidelberg/'
     text: 'Hear more about the recent conference we held in Copenhagen, covering a wide range of early-researcher topics, from career advice to open access publishing on our blog.'
     image: conference_table.jpg
     
@@ -22,7 +22,7 @@ widget-2:
 
 widget-3:
     title: "Interviews"
-    url: 'http://youngalliance.github.io/interviews/'
+    url: 'http://youngalliance.github.io/blog/'
     text: 'Check out some of our interviews from established scientists on the journey they took on their way to scientific success, what advice they have for young researchers, and what trends they see shaping the future of science'
     image: famous_person.jpg
 ---
