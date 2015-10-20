@@ -2,8 +2,8 @@
 layout: page
 sidebar: right
 subheadline: Templates
-title:  "You could be next – Reproducibility Initiative"
-teaser: "Reproducibility Initiative"
+title:  "Reproducibility Initiative"
+teaser: "You could be next – Reproducibility Initiative shows most landmark experiments cannot be reproduced"
 breadcrumb: true
 tags:
     - post format
@@ -12,8 +12,7 @@ categories:
     - Website
 ---
 
-#You could be next – Reproducibility Initiative shows most landmark experiments cannot be reproduced
-###By Benito Campos
+### By Benito Campos
 The issue of experimental reproducibility is of growing concern to the research community. Crowd-funded or grant-funded projects like the Reproducibility Initiative are re-examining some of the key experiments in different scientific fields. Why should you care? Well, at least for three reasons:   
 
 1) Funded with 1.3Mio $ the [Reproducibility Initiative](http://validation.scienceexchange.com/#/reproducibility-initiative) will probe the “50 most impactful cancer biology studies published between 2010-2012”. This is relevant to your research! 
