@@ -1,7 +1,8 @@
 ---
 layout: page
 sidebar: right
-title:  "Interview series"
+subheader: Interview series
+title:  "Claudia Petritsch, Ph.D"
 teaser: "Interview with Claudia Petritsch, Ph.D"
 breadcrumb: true
 tags:
