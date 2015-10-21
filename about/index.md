@@ -26,6 +26,6 @@ The _Young Alliance Against Cancer_ (_YAAC_) is an ambitious project in developm
 A major interest of the _Young Alliance Against Cancer_ is to allow cancer researchers to take part in the construction and maintenance of the platform content. Researchers are meant to communicate and exchange protocols, materials and knowledge.
 
 
-#### _Young Alliance Working Group_   
+#### Young Alliance Working Group   
 
 As part of ongoing recruiting efforts the _Young Alliance Against Cancer_ has gathered a working group of cancer researchers that are willing to dedicate time and effort to develop the core platform content. Their collective expertise covers relevant research areas that are necessary for the construction of the online content. Furthermore, working group members will post publications that summarize new and important events in cancer research and will announce at regular intervals, relevant scientific meetings and events regarding cancer research.
