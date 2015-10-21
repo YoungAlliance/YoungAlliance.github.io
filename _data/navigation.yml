@@ -20,7 +20,7 @@
   side: left
 
 - title: Past Events
-  url: "/events/"
+  url: "/copenhagen/"
   side: left
   dropdown:
   - title: "Copenhagen 2015"
