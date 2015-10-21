@@ -1,3 +1,8 @@
+span.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
 rss {
 display:block;
 margin:10px;
