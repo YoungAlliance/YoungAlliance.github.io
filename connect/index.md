@@ -8,14 +8,7 @@ The Young Alliance Against Cancer is just beginning our quest to change the way 
 
 If you have specific questions/suggestions or want to get involved, please write us an email at our contact email address <a href="mailto:contact@young-alliance.org">contact@young-alliance.org</a>.  
 
-span.reverse {
-  unicode-bidi: bidi-override;
-  direction: rtl;
-}
-
-<span class="reverse">moc.rehtrebttam@retsambew</span>
-
-
+<span class="reverse">gro.ecnailla-gnuoy@tcatnoc</span>
 
 
 Thanks!
