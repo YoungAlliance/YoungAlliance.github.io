@@ -22,7 +22,7 @@ widget-2:
 
 widget-3:
     title: "Interviews"
-    url: 'http://youngalliance.github.io/blog/'
+    url: 'https://youngalliance.github.io/blog/archive/'
     text: 'Check out some of our interviews from established scientists on the journey they took on their way to scientific success, what advice they have for young researchers, and what trends they see shaping the future of science'
     image: famous_person.jpg
 ---
