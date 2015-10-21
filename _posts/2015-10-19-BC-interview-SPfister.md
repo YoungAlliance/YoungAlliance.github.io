@@ -18,7 +18,7 @@ categories:
 
 ##Short Bio
 
-Stefan Pfister graduated as an M.D. from the University of Tübingen. He was a postdoctoral fellow at the Dana-Farber Cancer Institute and The German Cancer Research Center, where he was appointed group leader in 2006. Since 2012 he is heading the [Division of Pediatric Neurooncology](https://www.dkfz.de/en/paediatrische-neuroonkologie/index.php) at the DKFZ. He is a board certified pediatrician with a focus on the genetic and epigenetic aspects of childhood brain tumors. 
+Stefan Pfister graduated as an M.D. from the University of Tübingen. He was a postdoctoral fellow at the Dana-Farber Cancer Institute and The German Cancer Research Center, where he was appointed group leader in 2006. Since 2012 he is heading the <a href="https://www.dkfz.de/en/paediatrische-neuroonkologie/index.php" target="_blank">Division of Pediatric Neurooncology</a> at the DKFZ. He is a board certified pediatrician with a focus on the genetic and epigenetic aspects of childhood brain tumors. 
 
 
 **YAAC:** Prof. Pfister, thank you very much again for supporting the Young Alliance with this interview. You have been quite successful, both as researcher and clinician. Our readers wonder, how can someone be successful and down to earth at the same time. Especially, given your M.D. background and your impressive career in cancer research. What is your secret?   
