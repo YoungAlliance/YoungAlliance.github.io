@@ -19,7 +19,7 @@ categories:
 
 
 ##Short Bio
-Angelika Riemer holds an M.D. and a Ph.D. in molecular biology. She was trained as an immunologist as well as a dermatologist and spent time abroad as visiting scientist at the Dana-Faber Cancer Institute/Harvard Medical School. In 2010, she was appointed as [junior group leader](http://www.dkfz.de/en/immuntherapie-immunpraevention/index.php) at the German Cancer Research Center and is currently working on cancer vaccine development.
+Angelika Riemer holds an M.D. and a Ph.D. in molecular biology. She was trained as an immunologist as well as a dermatologist and spent time abroad as visiting scientist at the Dana-Faber Cancer Institute/Harvard Medical School. In 2010, she was appointed as <a href="http://www.dkfz.de/en/immuntherapie-immunpraevention/index.php" target="_blank">junior group leader</a> at the German Cancer Research Center and is currently working on cancer vaccine development.
 
 **YAAC:** Dear Dr. Riemer, thank you very much for making time for this interview. A lot of young cancer researchers are eager to learn more about your career. Do you recall any particularly joyful moments, big or small, besides, of course, being mentored by a Nobel Prize laureate?   
 
