@@ -6,5 +6,4 @@ published: true
 
 Connect with us and hear our vision for the future of cancer research.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GndK6xpltho" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rGxHurStOfI" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GndK6xpltho" frameborder="0" allowfullscreen></iframe>
