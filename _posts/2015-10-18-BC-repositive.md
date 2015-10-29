@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Posts
+subheadline: Tools&DB
 title:  "REPOSITIVE"
 teaser: "I have a dream that one day genomic data bases will be easy to use. By the way - REPOSITIVE already did it..."
 breadcrumb: true
