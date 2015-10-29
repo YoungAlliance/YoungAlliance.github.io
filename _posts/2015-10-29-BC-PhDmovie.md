@@ -1,9 +1,17 @@
 ---
-breadcrumb: "true"
-tags: 
-  - "null"
-published: false
+layout: page
+sidebar: right
+subheadline: Leisure-fun-crazy ape
+title:  "The PhD Movie"
+teaser: "Clear your desk, call in sick and watch „The PHD movie“ (because life is short and PhD is tough)"
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
+
 
 ### By Ivan Kel
 
