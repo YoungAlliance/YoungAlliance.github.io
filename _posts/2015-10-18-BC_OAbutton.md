@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Posts
+subheadline: Tools&DB
 title:  "Open Access Button"
 teaser: "Push this button if you hit a pay wall!!!"
 breadcrumb: true
