@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: recommended reading
+subheadline: Recommended reading
 title:  "The emperor of all maladies"
 teaser: Read this book, even if it is the only book you’ll read this year!
 breadcrumb: true
