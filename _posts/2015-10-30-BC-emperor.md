@@ -2,9 +2,22 @@
 breadcrumb: "true"
 tags: 
   - "null"
-published: true
+published: false
 ---
 
+---
+layout: page
+sidebar: right
+subheadline: recommended reading
+title:  "The emperor of all maladies"
+teaser: Read this book, even if it is the only book you’ll read this year!
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
+---
 
 ### By Despina Trouli
 
