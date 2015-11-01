@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline: Posts
-title:  "Immune Checkpoint blockade"
+title:  "Immune checkpoint blockade"
 teaser: "Worthy of a Nobel Prize?"
 breadcrumb: true
 tags:
