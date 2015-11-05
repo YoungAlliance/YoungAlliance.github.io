@@ -1,15 +1,15 @@
 ---
 layout: page
 sidebar: right
-subheadline: Upcoming event
+subheadline: Upcoming event 
 title:  "Open Access Webinar"
-teaser: Open Access and Early stage researchers: challenges and opportunities
+teaser: Open Access and Early stage researchers: challenges and opportunities 
 breadcrumb: true
 tags:
     - post format
 categories:
     - YAAC
-    - Website 
+    - Website
 ---
 
 
