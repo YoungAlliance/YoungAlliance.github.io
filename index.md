@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "The Young Alliance Against Cancer (YAAC) -- Educating the next generation of cancer researchers"
+title: ""
 header:
    image_fullwidth: "Bannerpencil2.jpg"
 widget-1:
