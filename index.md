@@ -12,19 +12,19 @@ widget-1:
     title: "News & Views"
     url: 'http://youngalliance.github.io/heidelberg/'
     text: 'Hear more about the recent conference we held in Copenhagen, covering a wide range of early-researcher topics, from career advice to open access publishing on our blog.'
-    image: conference_table.jpg
+    image: Thumbsup.jpg
     
 widget-2:
     title: "Change"
     url: 'http://youngalliance.github.io/change/'
     text: '<em>Share our passion for changes in the way cancer research is done?</em> Connect with us and hear our vision for the future of cancer research.  Or share your ideas on how a grassroots organization should be shaking up the research community'
-    image: copenhagen_2015_title.jpg
+    image: Contemplating.jpg
 
 widget-3:
     title: "Interviews"
     url: 'https://youngalliance.github.io/blog/archive/'
     text: 'Check out some of our interviews from established scientists on the journey they took on their way to scientific success, what advice they have for young researchers, and what trends they see shaping the future of science'
-    image: famous_person.jpg
+    image: Famousguy2.jpg
 ---
 
 
