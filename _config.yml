@@ -41,7 +41,7 @@ urlimg: "https://YoungAlliance.github.io/images/"
 
 # Logo size is 600x80 pixels
 logo: ""
-logo_normal: ""
+logo_normal: "YAAC_logo_normal.png"
 
 
 # Paginates all X entries
