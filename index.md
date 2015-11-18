@@ -7,7 +7,7 @@
 layout: frontpage
 title: "The Young Alliance Against Cancer (YAAC) -- Educating the next generation of cancer researchers"
 header:
-   image_fullwidth: "Bannerwtaercolor.jpg"
+   image_fullwidth: "Bannercartoon2.jpg"
 widget-1:
     title: "News & Views"
     url: 'http://youngalliance.github.io/heidelberg/'
