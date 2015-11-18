@@ -7,18 +7,18 @@
 layout: frontpage
 title: ""
 header:
-   image_fullwidth: "Bannerpencil.jpg"
+   image_fullwidth: "Bannerpencil3.jpg"
 widget-1:
     title: "News & Views"
     url: 'http://youngalliance.github.io/heidelberg/'
     text: 'Hear more about the recent conference we held in Copenhagen, covering a wide range of early-researcher topics, from career advice to open access publishing on our blog.'
-    image: Thumbsup.jpg
+    image: Thumbsup2.jpg
     
 widget-2:
     title: "Change"
     url: 'http://youngalliance.github.io/change/'
     text: '<em>Share our passion for changes in the way cancer research is done?</em> Connect with us and hear our vision for the future of cancer research.  Or share your ideas on how a grassroots organization should be shaking up the research community'
-    image: Redstripe.jpg
+    image: Redstripe2.jpg
 
 widget-3:
     title: "Interviews"
