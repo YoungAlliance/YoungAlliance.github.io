@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Posts
 title:  "Data management tools"
-teaser: "Sounds boring – but it can save your live (i.e. your grant) one day – A data management plan tool"
+teaser: "Sounds boring – but it can save your life (i.e. your grant) one day – A data management plan tool"
 breadcrumb: true
 tags:
     - post format
