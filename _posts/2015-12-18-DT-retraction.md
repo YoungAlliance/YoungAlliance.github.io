@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Leisure & fun
+subheadline: Miscellaneous
 title:  "Retraction Watch"
 teaser: "A moral compass for cancer research?"
 breadcrumb: true
