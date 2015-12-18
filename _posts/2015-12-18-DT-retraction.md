@@ -1,11 +1,16 @@
 ---
-breadcrumb: "true"
-sidebar: right
 layout: page
-tags: null
-published: false
+sidebar: right
+subheadline: Leisure & fun
+title:  "Retraction Watch"
+teaser: "A moral compass for cancer research?"
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
-
 
 ### By Despina Trouli
 
