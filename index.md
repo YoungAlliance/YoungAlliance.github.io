@@ -7,12 +7,12 @@
 layout: frontpage
 title: ""
 header:
-   image_fullwidth: "Bannercartoon2.jpg"
+   image_fullwidth: "image_9.png"
 widget-1:
     title: "News & Views"
     url: 'http://youngalliance.github.io/heidelberg/'
     text: 'Hear more about the recent conference we held in Copenhagen, covering a wide range of early-researcher topics, from career advice to open access publishing on our blog.'
-    image: Thumbsup2.jpg
+    image: Contemplating.jpg
     
 widget-2:
     title: "Change"
