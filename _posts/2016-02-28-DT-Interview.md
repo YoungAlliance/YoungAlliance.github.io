@@ -12,13 +12,13 @@ categories:
     - Website
 ---
 
-##Interview with Theofilos Poutahidis, D.V.M., Ph.D.##   
+Interview with Theofilos Poutahidis, D.V.M., Ph.D.##   
 **Date:** 15.01.2016   
 
 **Location:** Thessaloniki, Greece   
 
 
-##Short Bio##
+Short Bio
 Theofilos Poutahidis graduated as a veterinary physician from the Aristotle University of Thessaloniki (AUTh). He was a postdoctoral fellow at the Division of Comparative Medicine at MIT. Since 2002 he is a faculty leader in the Laboratory of Pathology at AUTh and an Associate Professor in veterinary pathology.  His work focuses on several factors of the tumor microenvironment, including the immune system. One important aspect of his research is, how certain gastrointestinal bacteria affect carcinogenesis.
 
 **YAAC:** Dr. Poutahidis thank you very much for making time for this Interview. Some cancer researchers might work with animal models. From a veterinarian’s perspective: how important is the cooperation of doctors and vets in this field? 
