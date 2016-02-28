@@ -1,10 +1,15 @@
 ---
-breadcrumb: "true"
-sidebar: right
 layout: page
-tags: 
-  - "null"
-published: true
+sidebar: right
+subheadline: Interview series
+title:  "Theofilos Poutahidis, D.V.M., Ph.D."
+teaser: "Interview with Theofilos Poutahidis, D.V.M., Ph.D."
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
 
 ##Interview with Theofilos Poutahidis, D.V.M., Ph.D.   
