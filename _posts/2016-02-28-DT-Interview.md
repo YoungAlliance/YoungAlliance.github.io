@@ -4,7 +4,7 @@ sidebar: right
 layout: page
 tags: 
   - "null"
-published: false
+published: true
 ---
 
 ##Interview with Theofilos Poutahidis, D.V.M., Ph.D.   
