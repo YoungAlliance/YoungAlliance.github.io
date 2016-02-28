@@ -12,7 +12,7 @@ categories:
     - Website
 ---
 
-Interview with Theofilos Poutahidis, D.V.M., Ph.D.   
+ 
 **Date:** 15.01.2016   
 
 **Location:** Thessaloniki, Greece   
