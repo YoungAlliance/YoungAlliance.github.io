@@ -7,7 +7,7 @@
 layout: frontpage
 title: ""
 header:
-   image_fullwidth: "Thumbsupfull.jpg"
+   image_fullwidth: "thumbsup_pencil_large.jpg"
 widget-1:
     title: "News & Views"
     url: 'http://youngalliance.github.io/heidelberg/'
