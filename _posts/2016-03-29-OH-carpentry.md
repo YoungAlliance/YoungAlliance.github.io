@@ -2,8 +2,8 @@
 breadcrumb: true
 sidebar: right
 layout: page
-subheadline: "Leisure & fun"
-title: "Data Carpentry-The IKEA of data management"
+subheadline: "Tools&DB"
+title: "Data Carpentry - The IKEA of data management"
 teaser: Data management for everybody
 tags: 
   - post format
