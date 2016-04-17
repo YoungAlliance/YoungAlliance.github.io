@@ -1,9 +1,15 @@
 ---
-breadcrumb: "true"
-sidebar: right
 layout: page
-tags: null
-published: false
+sidebar: right
+subheadline: Leisure & fun
+title:  "The PhD Movie 2"
+teaser: "You may want to watch it - because life is short and PhD is tough"
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
 
 
