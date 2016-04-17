@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Leisure & fun
 title:  "The PhD Movie 2"
-teaser: "You may want to watch it - because life is short and PhD is tough"
+teaser: "Start the week with a smile - because life is short and PhD is tough"
 breadcrumb: true
 tags:
     - post format
