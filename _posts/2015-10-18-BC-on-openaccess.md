@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Posts
+subheadline: Miscellaneous
 title:  "On open access"
 teaser: "Why I didn’t like open access"
 breadcrumb: true
