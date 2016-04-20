@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Posts
+subheadline: Recommended reading
 title:  "Immune checkpoint blockade"
 teaser: "Worthy of a Nobel Prize?"
 breadcrumb: true
