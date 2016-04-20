@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Posts
+subheadline: Tools&DB
 title:  "Coursera"
 teaser: "R for everyone!"
 breadcrumb: true
