@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Leisure-fun-crazy ape
+subheadline: Leisure & fun
 title:  "The PhD Movie"
 teaser: "Clear your desk, call in sick and watch „The PHD movie“ (because life is short and PhD is tough)"
 breadcrumb: true
