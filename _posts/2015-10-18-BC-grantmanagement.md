@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Posts
+subheadline: Tools&DB
 title:  "Data management tools"
 teaser: "Sounds boring – but it can save your life (i.e. your grant) one day – A data management plan tool"
 breadcrumb: true
