@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Posts
+subheadline: Tools&DB
 title:  "CBioVikings"
 teaser: "Biowho? CBioVikings teach you basic statistics and data management!"
 breadcrumb: true
