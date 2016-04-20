@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Summary
 title:  "This weeks's summary..."
-teaser: Summary of this week's highlights in one sentence
+teaser: Summary of 2015 highlights
 breadcrumb: true
 tags:
     - post format
