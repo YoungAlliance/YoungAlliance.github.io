@@ -16,7 +16,7 @@ categories:
 
 Recently, we blogged about a number of tools that will likely ease your research. We feel that some of these tools are quite valuable and will keep updating you as they are further developed.   
 
-1) Our number one favorite is still <a href="https://repositive.io/" target="_blank">REPOSITIVE</a>, a visionary effort to make genomic data accessible. They just released their beta version and it looks great!    
+1) One of our favorites is still <a href="https://repositive.io/" target="_blank">REPOSITIVE</a>, a visionary effort to make genomic data accessible. They just released their beta version and it looks great!    
 
 2) We also feel that <a href="http://www.datacarpentry.org/" target="_blank">Data Carpentry</a> is a fantastic platform to learn and teach data management.   
 
