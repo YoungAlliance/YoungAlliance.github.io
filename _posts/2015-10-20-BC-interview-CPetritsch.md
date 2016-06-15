@@ -17,7 +17,8 @@ categories:
 **Location:** San Francisco, USA  
 
 
-##Short Bio
+##Short Bio   
+
 Claudia Petritsch graduated from the University of Vienna. She was a postdoctoral fellow at the Howard Hughes Medical Institute and later at the Department of Physiology at the University of California, San Francisco (UCFS).  In 2003, she was appointed group leader at the Ludwig-Maximilian-University, Munich, Germany. Two years later she moved back to San Francisco and joined the Dept. of Neurosurgery at UCSF as associated researcher. In 2008 she was appointed Assistant Professor. <a href="http://neurosurgery.ucsf.edu/index.php/research_BTRC_petritsch.html" target="_blank">Her lab</a> is currently working on asymmetric division of stem and progenitor cells and tumor heterogeneity in brain cancers.
 
 **YAAC:** Dr. Petritsch, thank you very much again for supporting the Young Alliance with this interview and thank you for choosing this location (sunset with view of golden gate bridge, park and San Francisco skyline). The view is breathtaking! 
