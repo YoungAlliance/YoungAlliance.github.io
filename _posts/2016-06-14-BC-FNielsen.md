@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline: Interview series
-title:  "Fiona Nielsen"
+title:  "A bioinformatician’s spark which lead to a new platform for sharing genomic data"
 teaser: "Interview with Founder and CEO of DNAdigest and Repositive Fiona Nielsen"
 breadcrumb: true
 tags:
