@@ -16,7 +16,7 @@ categories:
 **Location:** Cambridge, UK/Heidelberg, Germany  
 
 
-##Short Bio   
+**Short Bio**   
 
 Fiona Nielsen was trained as a bioinformatician at the University of Southern Denmark and Radboud University in the Netherlands. After working as a developer for Illumina she founded and currently presides the charity <a href="http://DNAdigest.org" target="_blank">DNAdigest</a> as well as the social enterprise <a href="http://repositive.io" target="_blank">Repositive limited</a>. Her goals are promoting best practices for efficient and ethical data sharing as well as developing and providing novel software tools and mechanisms for sharing of genomic data.
 
