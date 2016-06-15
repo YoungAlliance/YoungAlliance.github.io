@@ -1,5 +1,15 @@
 ---
-published: true
+layout: page
+sidebar: right
+subheadline: Interview series
+title:  "Fiona Nielsen"
+teaser: "Interview with Founder and CEO of DNAdigest and Repositive Fiona Nielsen"
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - YAAC
+    - Website
 ---
 **Date:** 31.05.2016 
 
