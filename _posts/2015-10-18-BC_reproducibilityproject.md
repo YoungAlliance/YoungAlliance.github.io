@@ -22,7 +22,7 @@ The issue of experimental reproducibility is of growing concern to the research 
 3) Many of these reproducibility projects are being conducted through <a href="https://www.scienceexchange.com/" target="_blank">Science Exchange</a>. This commercial online portal connects researchers to hundreds of labs (both commercial and academic). Let’s say you need to sequence a sample, get a biological experiment done or perform any of the over 1,800 analytical and experimental techniques offered on Science Exchange. You can have qualified staff do it for you – often for a reasonable price - and save precious time. If you have a couple of minutes left today, check out their website. It may save you a lot of time during your career!
  
 
-####Links: 
+Links: 
 - <a href="http://validation.scienceexchange.com/#/reproducibility-initiative" target="_blank">Reproducibility Project</a>
 - <a href="http://www.nature.com/nature/journal/v483/n7391/full/483531a.html#affil-auth" target="_blank">Want to read more?</a>
 - <a href="https://www.scienceexchange.com/" target="_blank">Don't forget to check out science exchange</a>
