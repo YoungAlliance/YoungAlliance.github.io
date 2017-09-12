@@ -19,7 +19,7 @@ The issue of experimental reproducibility is of growing concern to the research 
 
 2) This kind of initiative is only one of many; some are even conducted by pharmaceutical companies. And results are worrisome as many key findings proved to be irreproducible. Again, this should matter to you.   
 
-3) Many of these reproducibility projects are being conducted through <a href="https://www.scienceexchange.com/" target="_blank">Science Exchange</a>. This commercial online portal connects researchers to hundreds of labs (both commercial and academic). Let’s say you need to sequence a sample, get a biological experiment done or perform any of the over 1,800 analytical and experimental techniques offered on Science Exchange. You can have qualified staff do it for you – often for a reasonable price - and safe precious time. If you have a couple of minutes left today, check out their website. It may safe you a lot of time during your career!
+3) Many of these reproducibility projects are being conducted through <a href="https://www.scienceexchange.com/" target="_blank">Science Exchange</a>. This commercial online portal connects researchers to hundreds of labs (both commercial and academic). Let’s say you need to sequence a sample, get a biological experiment done or perform any of the over 1,800 analytical and experimental techniques offered on Science Exchange. You can have qualified staff do it for you – often for a reasonable price - and save precious time. If you have a couple of minutes left today, check out their website. It may save you a lot of time during your career!
  
 
 ####Links: 
