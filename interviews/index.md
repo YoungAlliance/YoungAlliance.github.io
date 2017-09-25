@@ -2,6 +2,8 @@
 layout: page
 title: "Interviews"
 published: true
+header:
+   image_fullwidth: "Thumbsupfull.jpg"
 ---
 
 Want to learn about the highs and lows in the careers of successful young group leaders? In this interview series established scientists talk about the journey they took on their way to scientific success...enjoy

@@ -2,6 +2,8 @@
 layout: page
 title: "2nd YAAC conference in Copenhagen"
 published: true
+header:
+   image_fullwidth: "Thumbsupfull.jpg"
 ---
 
 The Young Alliance Against Cancer held its 2nd international conference in Copenhagen, Denmark May 22-23 2015. We would like to thank our sponsors <a href="http://www.carlsbergfondet.dk/" target="_blank">Carlsbergfondet</a>, <a href="https://www.fosteropenscience.eu/" target="_blank">FOSTER</a> and the <a href="http://www.ku.dk/english/" target="_blank">University of Copenhagen</a>, as well as all speakers and participants for making the conference a great success.

@@ -2,6 +2,8 @@
 layout: page
 title: "Connect with the Young Alliance"
 published: true
+header:
+   image_fullwidth: "Thumbsupfull.jpg"
 ---
 
 The Young Alliance Against Cancer is just beginning our quest to change the way young cancer researchers work, interact, and learn.  We need your help.  First please spread the word, and connect to us on Facebook, <a href="https://twitter.com/youngallianceAC" target="_blank">Twitter</a>, or <a href="https://de.linkedin.com/pub/young-alliance-against-cancer/108/1b3/9a2" target="_blank">LinkedIn</a>.

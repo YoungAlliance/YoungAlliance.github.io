@@ -2,6 +2,8 @@
 layout: page
 title: "Change"
 published: true
+header:
+   image_fullwidth: "Thumbsupfull.jpg"
 ---
 
 Connect with us and hear our vision for the future of cancer research.
