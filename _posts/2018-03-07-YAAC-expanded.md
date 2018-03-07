@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Miscellaneous
 title:  "Young Alliance meets Industry"
-teaser: "New tweet channel explores the synergy between life sciences and industry"
+teaser: "New tweet channel explores synergy between life sciences and industry"
 breadcrumb: true
 tags:
     - post format
