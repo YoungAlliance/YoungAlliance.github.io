@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Tools&DB
+subheadline: Miscellaneous
 title:  "Young Alliance meets Industry"
 teaser: "New tweet channel explores the synergy between life sciences and industry"
 breadcrumb: true
